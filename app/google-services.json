@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028755008584",
+    "project_id": "firesignin-1e65b",
+    "storage_bucket": "firesignin-1e65b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028755008584:android:120993f4033804edf97c7d",
+        "android_client_info": {
+          "package_name": "com.sree.firegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028755008584-c33ib6f5b0gpmt5nh5ko1vim2ogdh6m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByumlaF9buHNW040bYxGeM_qA5iM0J-L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028755008584-c33ib6f5b0gpmt5nh5ko1vim2ogdh6m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
